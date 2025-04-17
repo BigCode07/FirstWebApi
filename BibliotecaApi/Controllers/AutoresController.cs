@@ -16,24 +16,47 @@ namespace BibliotecaApi.Controllers
             this.context = context;
         }
 
+        [HttpGet("/listado-de-autores")]
         [HttpGet]
         public async Task<IEnumerable<Autor>> Get()
         {
             return await context.Autores.ToListAsync();
         }
 
-        [HttpGet("{id:int}")] //api/autores/id
-        public async Task<ActionResult<Autor>> Get(int id)
+        [HttpGet("primero")]  // api/autores/primero
+        public async Task<Autor> GetPrimerAutor()
+        {
+            return await context.Autores
+                .FirstAsync();
+        }
+
+        [HttpGet("{id:int}")] //api/autores/id?llave1=valor1&llave2=valor2
+        public async Task<ActionResult<Autor>> Get([FromRoute] int id,[FromHeader] bool incluirLibros)
         {
             var autor = await context.Autores
                 .Include(x => x.Libros)
                 .FirstOrDefaultAsync(x => x.Id == id);
+
             if (autor is null) return NotFound();
+
             return autor;
         }
 
+
+        [HttpGet("{nombre:alpha}")]
+        public async Task<IEnumerable<Autor>> Get(String nombre)
+        {
+            return await context.Autores.Where(autor => autor.Nombre.Contains(nombre)).ToListAsync();
+        }
+
+        //[HttpGet("{parametro1}/{parametro2?}")]
+        //public ActionResult Get(string parametro1, string parametro2 = "Valor por defecto")
+        //{
+        //    return Ok(new {parametro1,parametro2});
+        //}
+
         [HttpPost]
-        public async Task<ActionResult> Post(Autor autor)
+        public async Task<ActionResult> Post([FromBody]Autor autor)
         {
             context.Add(autor);
             await context.SaveChangesAsync();
@@ -60,6 +83,6 @@ namespace BibliotecaApi.Controllers
 
             return Ok();
         }
-        
+
     }
 }

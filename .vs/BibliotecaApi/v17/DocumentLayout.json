@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +31,20 @@
       "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250415001515_TablaLibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BibliotecaApi\\Migrations\\20250415001515_TablaLibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250414234625_TablaAutores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BibliotecaApi\\Migrations\\20250414234625_TablaAutores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\migrations\\20250415001515_tablalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\migrations\\20250415001515_tablalibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\nicol\\source\\repos\\bibliotecaapi\\bibliotecaapi\\migrations\\20250414234625_tablaautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB171CA7-1D5A-448B-AA0F-F9ED0FFA6DC6}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\migrations\\20250414234625_tablaautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LibrosController.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibrosController.cs",
-              "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\LibrosController.cs",
-              "ToolTip": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibrosController.cs",
-              "RelativeToolTip": "BibliotecaApi\\Controllers\\LibrosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PrimeraLetraMayusculaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ToolTip": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeToolTip": "BibliotecaApi\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T00:17:22.977Z",
+              "WhenOpened": "2025-04-17T23:21:50.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Datos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BibliotecaApi\\Datos\\ApplicationDbContext.cs",
@@ -80,33 +84,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Entidades\\Autor.cs",
               "RelativeDocumentMoniker": "BibliotecaApi\\Entidades\\Autor.cs",
               "ToolTip": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Entidades\\Autor.cs",
               "RelativeToolTip": "BibliotecaApi\\Entidades\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T23:12:23.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AutoresController.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\AutoresController.cs",
               "ToolTip": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\AutoresController.cs",
               "RelativeToolTip": "BibliotecaApi\\Controllers\\AutoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T23:09:10.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\appsettings.json",
               "RelativeDocumentMoniker": "BibliotecaApi\\appsettings.json",
@@ -114,12 +118,11 @@
               "RelativeToolTip": "BibliotecaApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-14T23:38:12.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T23:38:12.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Program.cs",
               "RelativeDocumentMoniker": "BibliotecaApi\\Program.cs",
@@ -127,12 +130,11 @@
               "RelativeToolTip": "BibliotecaApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:07:13.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T23:07:13.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Entidades\\Libro.cs",
               "RelativeDocumentMoniker": "BibliotecaApi\\Entidades\\Libro.cs",
@@ -146,6 +148,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "BibliotecaApi\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:17:22.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20250415001515_TablaLibros.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250415001515_TablaLibros.cs",
               "RelativeDocumentMoniker": "BibliotecaApi\\Migrations\\20250415001515_TablaLibros.cs",
@@ -153,25 +168,23 @@
               "RelativeToolTip": "BibliotecaApi\\Migrations\\20250415001515_TablaLibros.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T00:15:15.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T00:15:15.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BibliotecaApi",
+              "DocumentIndex": 8,
+              "Title": "BibliotecaApi.csproj",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\BibliotecaApi.csproj",
               "RelativeDocumentMoniker": "BibliotecaApi\\BibliotecaApi.csproj",
               "ToolTip": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\BibliotecaApi.csproj",
               "RelativeToolTip": "BibliotecaApi\\BibliotecaApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-14T23:27:35.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T23:27:35.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20250414234625_TablaAutores.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Source\\Repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250414234625_TablaAutores.cs",
               "RelativeDocumentMoniker": "BibliotecaApi\\Migrations\\20250414234625_TablaAutores.cs",
@@ -179,8 +192,7 @@
               "RelativeToolTip": "BibliotecaApi\\Migrations\\20250414234625_TablaAutores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:46:25.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T23:46:25.766Z"
             }
           ]
         }
